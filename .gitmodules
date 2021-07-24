@@ -1,0 +1,9 @@
+[submodule "flyiing"]
+	path = modules/flyiing
+	url = git@bitbucket.org:flyiing/modules.git
+[submodule "gmcf-cli"]
+	path = web/cli
+	url = git@bitbucket.org:jetstd/gmcf-cli.git
+[submodule "modules/support"]
+	path = modules/support
+	url = git@bitbucket.org:jetstd/gmcf-support.git

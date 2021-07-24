@@ -1,0 +1,9 @@
+.time-widget input {
+    margin-right: 6px;
+}
+.time-widget label {
+    margin-right: 6px;
+}
+.weekdays {
+	white-space:nowrap;
+}

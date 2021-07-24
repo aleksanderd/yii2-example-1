@@ -1,0 +1,15 @@
+
+table.variable-widget {
+    width: 100%;
+}
+
+table.variable-widget .variable-checkbox {
+    padding-right: 5px;
+    padding-top: 5px;
+    vertical-align: top;
+}
+
+table.variable-widget .variable-input {
+    padding-left: 10px;
+    width: 100%;
+}

@@ -1,0 +1,27 @@
+
+.hint-widget .hint-toggle {
+    display: inline;
+    float: left;
+}
+
+.hint-widget .hint-content {
+    display: inline;
+}
+
+.hint-widget {
+    display: inline-block;
+    padding: 3px 7px;
+    background-color: rgba(98%, 98%, 82%, 0.5);
+    border-radius: 5px;
+}
+
+.wrapper-content > .hint-widget,
+.form-hint .hint-widget {
+    padding: 10px 15px 10px;
+    margin: 0 0 5px;
+    border-radius: 7px;
+}
+
+.hint-visible {
+    width: 100%;
+}
